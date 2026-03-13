@@ -1,0 +1,17 @@
+# Base
+numpy>=1.26
+pandas>=2.2
+
+# EDA y visualización
+matplotlib>=3.8
+seaborn>=0.13
+squarify
+
+# Machine Learning
+scikit-learn>=1.5
+imbalanced-learn
+
+# Notebooks
+jupyterlab>=4.2
+notebook>=7.2
+ipykernel>=6.29
