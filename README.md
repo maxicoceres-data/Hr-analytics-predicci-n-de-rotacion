@@ -95,17 +95,14 @@ pip install -r requirements.txt
 
 Puedes mostrar imágenes directamente en GitHub. Ejemplos actuales del proyecto:
 
-![Top 10 variables con mayor impacto en renuncias](src/visualization/Top_10_variables_renuncias.png)
-![Proporción de rotación por OverTime](src/visualization/Proporción_de_rotación_por_OverTime.png)
-![Proporción de rotación por tramo de edad](src/visualization/Proporción_de_rotación_por_tramo_de_edad.png)
+![Top 10 variables con mayor impacto en renuncias](src/visualization/Top_10_variables_renuncias.png) ![Proporción de rotación por OverTime](src/visualization/Proporción_de_rotación_por_OverTime.png) ![Proporción de rotación por tramo de edad](src/visualization/Proporción_de_rotación_por_tramo_de_edad.png)
 
 ### Capturas de Power BI
 
 Si ya tienes imágenes del dashboard, guárdalas en `reports/figures/` y agrégalas así:
 
 ```md
-![Dashboard Power BI - Vista general](reports/figures/dashboard_general.png)
-![Dashboard Power BI - Segmentación](reports/figures/dashboard_segmentacion.png)
+[Dashboard Power BI - Vista general](reports/figures/dashboard_powerbi.png) [Dashboard Power BI - Segmentación](reports/figures/segmentacion_powerbi.png)
 ```
 
 ## Roadmap corto
