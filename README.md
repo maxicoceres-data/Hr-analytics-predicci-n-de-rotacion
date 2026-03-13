@@ -102,7 +102,7 @@ Puedes mostrar imágenes directamente en GitHub. Ejemplos actuales del proyecto:
 Si ya tienes imágenes del dashboard, guárdalas en `reports/figures/` y agrégalas así:
 
 ```md
-[Dashboard Power BI - Vista general](reports/figures/dashboard_powerbi.png) [Dashboard Power BI - Segmentación](reports/figures/segmentacion_powerbi.png)
+![Dashboard Power BI - Vista general](reports/figures/dashboard_powerbi.png) ![Dashboard Power BI - Segmentación](reports/figures/segmentacion_powerbi.png)
 ```
 
 ## Roadmap corto
